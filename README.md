@@ -222,6 +222,7 @@ public OnPlayerControlHintAnimationEnd(playerid, hintid) {
 #define CH_LETTER_SIZE_X 0.1598
 #define CH_LETTER_SIZE_Y 0.9199
 #define CH_BACKGROUND_HEIGHT 11.5
+#define CH_HINT_STACK_GAP 1.0
 
 #define CH_BACKGROUND_COLOR 0x1e1e1eFF
 #define CH_FOREGROUND_COLOR 0x353535FF
